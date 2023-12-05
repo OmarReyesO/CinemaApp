@@ -1,80 +1,33 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# 🍿 CinemaApp 
+A cross-platform mobile application for the purchase of movie tickets and food items.
+Built with React Native, using Context API for state management and styled-components for styling.
 
-# Getting Started
+# 🖼️ Screenshots
+## Light Theme
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206433-24618c47-10be-49ed-bb8c-e67723daf1ff.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206456-c353344e-8744-442d-8b2c-3f08d6b684d3.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206469-e7f4da27-6902-432e-9154-139764bcb9e7.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206473-86423ab3-b802-4e15-9133-ca1f78e034e1.PNG" width="250" />
+</div>
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Dark Theme
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206485-ab4d642f-315b-4ffe-9047-777736b524cf.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206505-5ae616c0-8faf-44b7-8ab6-e3444af960c9.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206517-474cbcf2-c9cf-401b-b4ea-d0bcf902d379.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206520-52dfb266-ba9d-4602-84f9-d16b30b68e80.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206530-246e9d50-4395-4cd5-ad66-4a4c96a802f5.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206537-6f94df54-650b-497c-8e17-13cb77ae8e6a.PNG" width="250" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288206547-62a837bf-cc06-495b-a1bc-a965d1981f9d.PNG" width="250" />
+</div>
 
-## Step 1: Start the Metro Server
+# 🎥 Videos
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288205847-64c961a7-5752-4cd9-a18d-41b64930bfcb.mp4
 
-To start Metro, run the following command from the _root_ of your React Native project:
+https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288205902-e67b1be1-04f7-47b1-b95c-b4f9797bb72f.mp4
 
-```bash
-# using npm
-npm start
+https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288205926-187ae32e-ded9-4cf7-9b90-086f0097e480.mp4
 
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
-# cinemaappprivate
+https://github-production-user-asset-6210df.s3.amazonaws.com/71852078/288205885-7c2d97f8-8584-49ea-937f-9772730abec7.mp4
